@@ -4,18 +4,12 @@
   "info": {
     "singularName": "test",
     "pluralName": "tests",
-    "displayName": "test"
+    "displayName": "About-Us",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
-  "attributes": {
-    "num": {
-      "type": "integer"
-    },
-    "isTrue": {
-      "type": "boolean"
-    }
-  }
+  "attributes": {}
 }
