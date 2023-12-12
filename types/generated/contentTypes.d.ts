@@ -422,7 +422,7 @@ export interface ApiTestTest extends Schema.SingleType {
   info: {
     singularName: 'test';
     pluralName: 'tests';
-    displayName: 'About-Us';
+    displayName: 'test';
     description: '';
   };
   options: {
